@@ -11,6 +11,6 @@ In the repository you will find:
 - my_files: The whole dynamic web project with all the files needed to run the Application.
 - A READ_ME.txt file for more details in the greek language 
 
-# To run the Social Media
+# To run the Application
 
 In the Documentation given in this repository there is an extensive analysis on how to run the project, so the best thing you could do is read it and go through the step by step installation progress explained inside of it.
