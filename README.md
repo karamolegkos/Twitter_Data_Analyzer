@@ -12,4 +12,6 @@ In the repository you will find:
 
 # To run the Application
 
-In the Documentation given in this repository there is an extensive analysis on how to run the project, so the best thing you could do is read it and go through the step by step installation progress explained inside of it.
+In the Documentation given in this repository, there is an extensive analysis on how to run the project, so the best thing you could do is read it and go through the step by step installation progress explained inside of it.
+
+*This project has a file as a report for a User and Technical Manual. You can get this by contacting me <a href="mailto:p.karamolegos@yahoo.gr"><b>here</b></a>.*
