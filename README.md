@@ -7,7 +7,6 @@ This project is named "Twitter Data Analyzer" as the main job of it is to collec
 # In this repository you will find
 In the repository you will find:
 - my_data: A directory having data that i collected as results by an experimental analysis that i go though to test my project. (They are explained more in the Report given with the project).
-- my_documentation: A documentation made as a User Manual in the Greek language.
 - my_files: The whole dynamic web project with all the files needed to run the Application.
 - A READ_ME.txt file for more details in the greek language 
 
